@@ -25,7 +25,7 @@ These pages are publicly accessible and can be used in app store listings:
 
 For questions regarding this app or privacy practices, please contact:
 
-📧 [developer@witec.id](mailto:developer@witec.id)
+[developer@witec.id](mailto:developer@witec.id)
 
 ---
 
