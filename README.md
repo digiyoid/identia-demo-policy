@@ -9,7 +9,7 @@ This repository contains the **Privacy Policy** documents for the internal demon
 These pages are publicly accessible and can be used in app store listings:
 
 - **Privacy Policy (Spanish)**  
-  [https://digiyoid.github.io/identia-demo-privacy/privacy-policy.html](https://digiyoid.github.io/identia-demo-policy/identia-demo-privacy/privacy-policy.html)
+  [https://digiyoid.github.io/identia-demo-privacy/privacy-policy.html](https://digiyoid.github.io/identia-demo-policy/privacy-policy.html)
 
 - **Privacy Policy (English)**  
   [https://digiyoid.github.io/identia-demo-privacy/privacy-policy-en.html](https://digiyoid.github.io/identia-demo-privacy/privacy-policy-en.html)
