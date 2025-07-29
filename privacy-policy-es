@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Política de Privacidad - Identia Demo</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad - Aplicación Demo de Identia</h1>
+
+  <p><strong>Última actualización:</strong> 15 de julio de 2025</p>
+
+  <p>Esta aplicación ha sido desarrollada por <strong>Identia</strong> con el único propósito de ser utilizada como herramienta de demostración interna de su tecnología de validación de identidad basada en inteligencia artificial y visión por computadora.</p>
+
+  <h2>Uso de datos</h2>
+  <ul>
+    <li>La aplicación <strong>no recopila, almacena ni comparte</strong> datos personales reales de los usuarios.</li>
+    <li>Las imágenes utilizadas en los procesos de prueba son simuladas o anonimizadas.</li>
+    <li>Los datos capturados durante la demo son procesados temporalmente y eliminados automáticamente tras finalizar la sesión.</li>
+  </ul>
+
+  <h2>Permisos requeridos</h2>
+  <ul>
+    <li>Se solicita acceso a la <strong>cámara</strong> para capturar imágenes simuladas de rostro y documentos, con fines exclusivos de demostración.</li>
+    <li>Se requiere acceso a <strong>Internet</strong> para conectarse a la API de Identia mediante una conexión segura (HTTPS).</li>
+  </ul>
+
+  <h2>Alcance y limitaciones</h2>
+  <ul>
+    <li>La app está destinada exclusivamente a entornos controlados y a usuarios autorizados por Identia.</li>
+    <li>No está orientada al uso comercial ni al tratamiento de información real de clientes.</li>
+  </ul>
+
+  <h2>Responsabilidad</h2>
+  <p>Identia aplica las mejores prácticas de seguridad y privacidad, incluso en entornos de prueba. No obstante, esta app no debe usarse como producto final ni en producción sin la debida personalización y acuerdo contractual.</p>
+
+  <h2>Contacto</h2>
+  <p>Si tienes preguntas sobre esta política, puedes escribirnos a: <a href="mailto:contacto@identia.ai">contacto@identia.ai</a></p>
+
+</body>
+</html>
